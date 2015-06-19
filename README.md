@@ -1,12 +1,9 @@
-uncrustify config for iOS developer
 
-## What is it
 
-Uncrustify make code formatting beautiful. It needs configrations, I couldn't find a good configuration for iOS developer on Objective-C.
+## My uncrustify config
 
-Here's a repo collecting pretty uncrustify config for iOS developer.
+uncrustify config for a typical ios project
 
-You can distribute your configurations over pull request.
 
 ## Requirements
 
